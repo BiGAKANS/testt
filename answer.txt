@@ -1,0 +1,4 @@
+3. answer- HTML means Hypertext Markup Language and it's purpose is describing the structure of aa webpage and tells the browser how to display it content
+
+4. answer- the purpose of the <img> tag is to put an image in our html.
+How to use it; you put the img syntax and choose the file path of the image

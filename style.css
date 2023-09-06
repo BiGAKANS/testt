@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    text-align: right;
+    justify-content: space-between;
+    
+    color: aliceblue;
+    
+}
+nav ul li{
+    display: inline;
+    padding: 10px 25px;
+    color: aliceblue;
+}
+nav a{
+    text-decoration: none;
+    
+}
+#nav{
+    background-color: black;
+}
+
+#vos{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(25, 29, 28);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 8px;
+    border-radius: 5px;
+    color: brown;
+}
+#btn{
+    margin-top: 5px;
+    margin-left: 4px;
+}
+form{
+    padding: 4px 4px 4px 4px;
+}
+
